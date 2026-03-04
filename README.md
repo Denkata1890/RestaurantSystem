@@ -16,6 +16,7 @@
     Документация: Автоматично генерирана Swagger (Open API) документация
 
 Технологичен стак:
+
     Език: C#
     Платформа: .NET 8.0 / .NET Core
     ORM: Entity Framework Core (Code First модел)
